@@ -18,6 +18,7 @@ namespace FiringModeClient
         List<string> automaticWeapons = new List<string>{
             "WEAPON_MICROSMG",
             "WEAPON_MACHINEPISTOL",
+            "WEAPON_APPISTOL",
             "WEAPON_MINISMG",
             "WEAPON_SMG",
             "WEAPON_SMG_MK2",
